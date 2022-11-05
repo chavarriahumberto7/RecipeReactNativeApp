@@ -145,3 +145,7 @@ lint/outputs/
 lint/tmp/
 # lint/reports/
 >>>>>>> c61b0959f7f4448cc12e04560aae081ce5a2fe50
+
+
+*.hprof 
+
