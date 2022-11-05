@@ -1,5 +1,5 @@
 # RecipeApp
-#### React Native CLI UI app  based on a recipe Model.
+#### React Native CLI UI app  based on a recipe Figma Design.
 
 ## ScreenShots
 ![AppPortrait](https://user-images.githubusercontent.com/72934134/200136765-d04e596c-8431-4b5b-9a77-dccfdb9a5886.png)
@@ -34,7 +34,7 @@
 ##### yarn install
 
 #### Start the App
-##### yarn expo start
+##### npx react-native run-android
 
 
 #### Language used
